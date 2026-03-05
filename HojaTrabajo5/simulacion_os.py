@@ -1,3 +1,7 @@
+/*
+* @author Raquel Vega
+* @version 1.0
+*/
 # -*- coding: utf-8 -*-
 import simpy
 import random
@@ -191,4 +195,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
